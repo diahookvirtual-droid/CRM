@@ -1,0 +1,62 @@
+[
+  {
+    "id": "SHL-001",
+    "name": "Charlie Smith",
+    "email": "pranay.rao@nothing.tech",
+    "phone": "",
+    "business_name": "Nothing India",
+    "status": "Contacted",
+    "created_at": "2026-11-24T14:54:53.530Z",
+    "updated_at": "2026-11-24T15:06:43.244Z"
+  },
+  {
+    "id": "SHL-002",
+    "name": "Chandan Mendiratta",
+    "email": "chandan@zeptonow.com",
+    "phone": "",
+    "business_name": "Zepto",
+    "status": "Contacted",
+    "created_at": "2026-11-24T14:54:57.667Z",
+    "updated_at": "2026-11-24T14:54:57.667Z"
+  },
+  {
+    "id": "SHL-003",
+    "name": "Satish Sharma",
+    "email": "satish.sharma@pw.live",
+    "phone": "",
+    "business_name": "PhysicsWallah (PW)",
+    "status": "Qualified",
+    "created_at": "2026-11-24T14:55:01.574Z",
+    "updated_at": "2026-11-24T14:55:01.574Z"
+  },
+  {
+    "id": "SHL-004",
+    "name": "Raj Rishi Singh",
+    "email": "rajrishi.singh@makemytrip.com",
+    "phone": "",
+    "business_name": "MakeMyTrip",
+    "status": "Lost",
+    "created_at": "2026-11-24T14:55:06.725Z",
+    "updated_at": "2026-11-24T15:18:30.565Z"
+  },
+  {
+    "id": "SHL-005",
+    "name": "Akshay Munjal",
+    "email": "akshay.munjal@herovired.com",
+    "phone": "",
+    "business_name": "Hero Vired",
+    "status": "Converted",
+    "created_at": "2026-11-24T14:55:13.382Z",
+    "updated_at": "2026-11-24T14:55:13.382Z"
+  },
+  {
+    "id": "4c057ad5-0854-4367-a3a8-86fbba837c3e",
+    "name": "guarv",
+    "email": "gv526021@gmail.com",
+    "phone": "789506460",
+    "business_name": "proxy dot",
+    "status": "Qualified",
+    "created_at": "2026-11-24T15:22:04.984Z",
+    "updated_at": "2026-11-25T12:27:14.509Z"
+  }
+]
