@@ -517,7 +517,7 @@ with st.sidebar:
     if logo_path.exists():
         st.image(str(r"logo.png"), width="content")
     st.title("☁️ Lead CRM Console")
-    st.caption("Pipeline & Lead Workspace")
+    st.caption("Pipeline & Lead Workspace(BYOK ! for demo u can use my url.")
     page = st.radio("NAVIGATION", ["Overview", "Manage leads"], label_visibility="visible")
     st.divider()
     st.caption("DATA & JSON MIRROR")
