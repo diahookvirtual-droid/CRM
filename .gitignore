@@ -1,4 +1,5 @@
+uv.lock
+pyproject.toml
+.env
 .venv/
 __pycache__/
-.streamlit/secrets.toml
-data/*.tmp
